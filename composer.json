@@ -1,0 +1,14 @@
+{
+  "name": "riskivy/yii2-export",
+  "authors": [
+    {
+      "name": "riskivy"
+    }
+  ],
+  "require": {},
+  "autoload": {
+    "psr-0": {
+      "HelloWorld": "src/"
+    }
+  }
+}
